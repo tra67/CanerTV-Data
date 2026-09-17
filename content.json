@@ -1,0 +1,73 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-17",
+  "hero": "film1",
+  "items": [
+    {
+      "id": "film1",
+      "title": "Caner Sinema",
+      "type": "Film",
+      "info": "Aksiyon • 2026",
+      "category": "Aksiyon",
+      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "poster": "",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "film2",
+      "title": "Gece Seansı",
+      "type": "Film",
+      "info": "Gerilim • 2026",
+      "category": "Gerilim",
+      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "poster": "",
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": "film3",
+      "title": "Hafta Sonu Filmi",
+      "type": "Film",
+      "info": "Komedi • 2026",
+      "category": "Komedi",
+      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+      "poster": "",
+      "enabled": true,
+      "order": 3
+    },
+    {
+      "id": "series1",
+      "title": "Yeni Dizi",
+      "type": "Dizi",
+      "info": "1. Sezon • 8 Bölüm",
+      "category": "Dram",
+      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "poster": "",
+      "enabled": true,
+      "order": 4
+    },
+    {
+      "id": "series2",
+      "title": "Caner Original",
+      "type": "Dizi",
+      "info": "2. Sezon • 10 Bölüm",
+      "category": "Aksiyon",
+      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "poster": "",
+      "enabled": true,
+      "order": 5
+    },
+    {
+      "id": "series3",
+      "title": "Klasikler",
+      "type": "Dizi",
+      "info": "Tüm Bölümler",
+      "category": "Klasik",
+      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+      "poster": "",
+      "enabled": true,
+      "order": 6
+    }
+  ]
+}
