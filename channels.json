@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updated_at": "2026-09-17",
   "channels": [
     {
@@ -7,14 +7,22 @@
       "name": "Caner TV Test",
       "category": "Test",
       "logo": "",
-      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "enabled": true,
+      "order": 1,
+      "now": "Caner TV Test Yayını",
+      "next": "Sıradaki program"
     },
     {
       "id": "caner_test_2",
       "name": "Caner Sinema Test",
       "category": "Sinema",
       "logo": "",
-      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "enabled": true,
+      "order": 2,
+      "now": "Caner Sinema",
+      "next": "Gece Kuşağı"
     }
   ]
 }
