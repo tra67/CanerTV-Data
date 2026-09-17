@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-17",
+  "channels": [
+    {
+      "id": "caner_test_1",
+      "name": "Caner TV Test",
+      "category": "Test",
+      "logo": "",
+      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "id": "caner_test_2",
+      "name": "Caner Sinema Test",
+      "category": "Sinema",
+      "logo": "",
+      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    }
+  ]
+}
