@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "updated": "2026-09-18",
   "providers": [
     {
@@ -28,24 +28,6 @@
       "episodes_url": "",
       "enabled_by_default": true,
       "order": 30
-    },
-    {
-      "id": "open_samples",
-      "name": "Caner Open Samples",
-      "description": "Teknik test ve demo içerikleri.",
-      "catalog_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_open_catalog.json",
-      "episodes_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_open_episodes.json",
-      "enabled_by_default": false,
-      "order": 90
-    },
-    {
-      "id": "mini_series",
-      "name": "Caner Mini Series",
-      "description": "Bölüm sistemi için teknik test dizisi.",
-      "catalog_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_mini_series_catalog.json",
-      "episodes_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_mini_series_episodes.json",
-      "enabled_by_default": false,
-      "order": 100
     }
   ]
 }
