@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "big_buck_bunny",
+      "title": "Big Buck Bunny",
+      "type": "Film",
+      "info": "Animasyon • Açık film",
+      "category": "Animasyon",
+      "description": "Blender Foundation tarafından yayımlanan açık film örneği.",
+      "poster": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "server2": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "server3": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "enabled": true,
+      "featured": true,
+      "order": 10
+    },
+    {
+      "id": "sintel",
+      "title": "Sintel",
+      "type": "Film",
+      "info": "Fantastik • Açık film",
+      "category": "Fantastik",
+      "description": "Açık film kataloğu için Sintel örneği.",
+      "poster": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
+      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "server2": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "server3": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+      "enabled": true,
+      "featured": false,
+      "order": 20
+    },
+    {
+      "id": "tears_of_steel",
+      "title": "Tears of Steel",
+      "type": "Film",
+      "info": "Bilim Kurgu • Açık film",
+      "category": "Bilim Kurgu",
+      "description": "Açık film kataloğu için Tears of Steel örneği.",
+      "poster": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
+      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "server2": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "server3": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "enabled": true,
+      "featured": false,
+      "order": 30
+    }
+  ]
+}
