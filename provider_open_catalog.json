@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "open_fun",
+      "title": "For Bigger Fun",
+      "type": "Film",
+      "info": "Kısa • Demo",
+      "category": "Kısa",
+      "description": "Caner TV sağlayıcı sistemini test etmek için açık demo içerik.",
+      "poster": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerFun.jpg",
+      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "server2": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "server3": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerFun.mp4",
+      "enabled": true,
+      "featured": false,
+      "order": 10
+    },
+    {
+      "id": "open_joyrides",
+      "title": "For Bigger Joyrides",
+      "type": "Film",
+      "info": "Kısa • Demo",
+      "category": "Kısa",
+      "description": "Açık demo video.",
+      "poster": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerJoyrides.jpg",
+      "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "server2": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "server3": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+      "enabled": true,
+      "featured": false,
+      "order": 20
+    },
+    {
+      "id": "open_provider_series",
+      "title": "Sağlayıcı Kısa Seçkisi",
+      "type": "Dizi",
+      "info": "1 Sezon • 4 Bölüm",
+      "category": "Kısa",
+      "description": "Repository sistemi üzerinden yüklenen örnek bölüm seçkisi.",
+      "poster": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerMeltdowns.jpg",
+      "url": "",
+      "server2": "",
+      "server3": "",
+      "seasons": 1,
+      "episodes": 4,
+      "enabled": true,
+      "featured": false,
+      "order": 30
+    }
+  ]
+}
