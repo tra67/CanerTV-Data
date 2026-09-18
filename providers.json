@@ -1,42 +1,51 @@
 {
-  "version": 4,
+  "version": 5,
   "updated": "2026-09-18",
   "providers": [
     {
-      "id": "open_samples",
-      "name": "Caner Open Samples",
-      "description": "Açık demo film ve kısa video seçkisi.",
-      "catalog_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_open_catalog.json",
-      "episodes_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_open_episodes.json",
+      "id": "blender_open",
+      "name": "Blender Open Movies",
+      "description": "Creative Commons lisanslı açık filmler ve Caminandes kısa serisi.",
+      "catalog_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_blender_catalog.json",
+      "episodes_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_blender_episodes.json",
       "enabled_by_default": true,
       "order": 10
     },
     {
-      "id": "blender_open",
-      "name": "Blender Open Movies",
-      "description": "Big Buck Bunny, Sintel ve Tears of Steel açık film seçkisi.",
-      "catalog_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_blender_catalog.json",
-      "episodes_url": "",
+      "id": "serial_classics",
+      "name": "Sessiz Seri Klasikleri",
+      "description": "Les Vampires ve The Perils of Pauline gibi gerçek bölüm yapısına sahip erken dönem seri filmler.",
+      "catalog_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_serial_classics_catalog.json",
+      "episodes_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_serial_classics_episodes.json",
       "enabled_by_default": true,
       "order": 20
     },
     {
-      "id": "mini_series",
-      "name": "Caner Mini Series",
-      "description": "Bölüm ve sezon sistemini test eden 6 bölümlük açık demo mini dizi.",
-      "catalog_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_mini_series_catalog.json",
-      "episodes_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_mini_series_episodes.json",
+      "id": "public_domain_classics",
+      "name": "Açık Alan Klasikleri",
+      "description": "Erken dönem kamu malı sinema klasikleri.",
+      "catalog_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_public_domain_catalog.json",
+      "episodes_url": "",
       "enabled_by_default": true,
       "order": 30
     },
     {
-      "id": "public_domain_classics",
-      "name": "Açık Alan Klasikleri",
-      "description": "Internet Archive üzerindeki doğrulanmış açık alan klasik filmleri.",
-      "catalog_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_public_domain_catalog.json",
-      "episodes_url": "",
-      "enabled_by_default": true,
-      "order": 40
+      "id": "open_samples",
+      "name": "Caner Open Samples",
+      "description": "Teknik test ve demo içerikleri.",
+      "catalog_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_open_catalog.json",
+      "episodes_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_open_episodes.json",
+      "enabled_by_default": false,
+      "order": 90
+    },
+    {
+      "id": "mini_series",
+      "name": "Caner Mini Series",
+      "description": "Bölüm sistemi için teknik test dizisi.",
+      "catalog_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_mini_series_catalog.json",
+      "episodes_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_mini_series_episodes.json",
+      "enabled_by_default": false,
+      "order": 100
     }
   ]
 }
