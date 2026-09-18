@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "updated": "2026-09-18",
+  "providers": [
+    {
+      "id": "open_samples",
+      "name": "Caner Open Samples",
+      "description": "Açık demo film ve kısa video seçkisi.",
+      "catalog_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_open_catalog.json",
+      "episodes_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_open_episodes.json",
+      "enabled_by_default": true,
+      "order": 10
+    }
+  ]
+}
