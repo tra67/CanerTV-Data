@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-18",
+  "name": "Sessiz Seri Klasikleri",
+  "items": [
+    {
+      "id": "les_vampires_1915",
+      "title": "Les Vampires",
+      "type": "Dizi",
+      "info": "1 Sezon • 10 Bölüm • 1915",
+      "category": "Suç",
+      "description": "Louis Feuillade'ın 1915 tarihli 10 bölümlük Fransız sessiz film serisi.",
+      "poster": "https://archive.org/services/img/lesVampires1915Episode1-theSeveredHead",
+      "url": "",
+      "server2": "",
+      "server3": "",
+      "seasons": 1,
+      "episodes": 10,
+      "enabled": true,
+      "featured": true,
+      "foreign": true,
+      "order": 10
+    },
+    {
+      "id": "perils_of_pauline_1914",
+      "title": "The Perils of Pauline",
+      "type": "Dizi",
+      "info": "1 Sezon • 9 Bölüm • 1914",
+      "category": "Macera",
+      "description": "Pearl White'ın başrolünde olduğu erken dönem macera serisinin günümüze ulaşan 9 bölümlük Avrupa kurgusu.",
+      "poster": "https://archive.org/services/img/THEPERILSOFPAULINE1914Ch.1PearlWhite",
+      "url": "",
+      "server2": "",
+      "server3": "",
+      "seasons": 1,
+      "episodes": 9,
+      "enabled": true,
+      "featured": true,
+      "foreign": true,
+      "order": 20
+    }
+  ]
+}
