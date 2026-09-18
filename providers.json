@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "updated": "2026-09-18",
   "providers": [
     {
@@ -28,6 +28,15 @@
       "episodes_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_mini_series_episodes.json",
       "enabled_by_default": true,
       "order": 30
+    },
+    {
+      "id": "public_domain_classics",
+      "name": "Açık Alan Klasikleri",
+      "description": "Internet Archive üzerindeki doğrulanmış açık alan klasik filmleri.",
+      "catalog_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_public_domain_catalog.json",
+      "episodes_url": "",
+      "enabled_by_default": true,
+      "order": 40
     }
   ]
 }
