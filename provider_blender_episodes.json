@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-18",
+  "episodes": [
+    {
+      "series_id": "caminandes",
+      "season": 1,
+      "episode": 1,
+      "title": "Llama Drama",
+      "description": "Caminandes'in ilk kısa bölümü.",
+      "duration": "2 dk",
+      "original_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Caminandes_-_Short_Movie.ogv",
+      "enabled": true
+    },
+    {
+      "series_id": "caminandes",
+      "season": 1,
+      "episode": 2,
+      "title": "Gran Dillama",
+      "description": "Caminandes'in ikinci kısa bölümü.",
+      "duration": "2 dk",
+      "original_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Caminandes_-_Gran_Dillama_-_Blender_Foundation%27s_new_Open_Movie.webm",
+      "enabled": true
+    },
+    {
+      "series_id": "caminandes",
+      "season": 1,
+      "episode": 3,
+      "title": "Llamigos",
+      "description": "Caminandes'in üçüncü kısa bölümü.",
+      "duration": "3 dk",
+      "original_url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Caminandes_3_-_Llamigos_-_Blender_Animated_Short.webm",
+      "enabled": true
+    }
+  ]
+}
