@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "mini_series_1",
+      "title": "Caner Mini Series",
+      "type": "Dizi",
+      "info": "1 Sezon • 6 Bölüm",
+      "category": "Demo Dizi",
+      "description": "Sağlayıcı bölüm sistemini test etmek için hazırlanmış açık demo mini dizi.",
+      "poster": "https://storage.googleapis.com/gtv-videos-bucket/sample/images/ForBiggerEscapes.jpg",
+      "url": "",
+      "server2": "",
+      "server3": "",
+      "seasons": 1,
+      "episodes": 6,
+      "enabled": true,
+      "featured": false,
+      "order": 10
+    }
+  ]
+}
