@@ -1,0 +1,196 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-18",
+  "episodes": [
+    {
+      "series_id": "les_vampires_1915",
+      "season": 1,
+      "episode": 1,
+      "title": "The Severed Head",
+      "description": "Les Vampires • Bölüm 1",
+      "duration": "31 dk",
+      "original_url": "archive://lesVampires1915Episode1-theSeveredHead",
+      "enabled": true
+    },
+    {
+      "series_id": "les_vampires_1915",
+      "season": 1,
+      "episode": 2,
+      "title": "The Ring That Kills",
+      "description": "Les Vampires • Bölüm 2",
+      "duration": "14 dk",
+      "original_url": "archive://lesVampires1915Episode2-theRingThatKills",
+      "enabled": true
+    },
+    {
+      "series_id": "les_vampires_1915",
+      "season": 1,
+      "episode": 3,
+      "title": "The Red Codebook",
+      "description": "Les Vampires • Bölüm 3",
+      "duration": "40 dk",
+      "original_url": "archive://lesVampires1915Episode3-theRedCodebook",
+      "enabled": true
+    },
+    {
+      "series_id": "les_vampires_1915",
+      "season": 1,
+      "episode": 4,
+      "title": "The Spectre",
+      "description": "Les Vampires • Bölüm 4",
+      "duration": "30 dk",
+      "original_url": "archive://lesVampires1915Episode4-theSpectre",
+      "enabled": true
+    },
+    {
+      "series_id": "les_vampires_1915",
+      "season": 1,
+      "episode": 5,
+      "title": "Dead Man's Escape",
+      "description": "Les Vampires • Bölüm 5",
+      "duration": "36 dk",
+      "original_url": "archive://lesVampires1915Episode5-lvasionDuMort",
+      "enabled": true
+    },
+    {
+      "series_id": "les_vampires_1915",
+      "season": 1,
+      "episode": 6,
+      "title": "Hypnotic Eyes",
+      "description": "Les Vampires • Bölüm 6",
+      "duration": "54 dk",
+      "original_url": "archive://lesVampires1915Episode6-hypnoticEyes",
+      "enabled": true
+    },
+    {
+      "series_id": "les_vampires_1915",
+      "season": 1,
+      "episode": 7,
+      "title": "Satanus",
+      "description": "Les Vampires • Bölüm 7",
+      "duration": "43 dk",
+      "original_url": "archive://lesVampires1915Episode7-satanus",
+      "enabled": true
+    },
+    {
+      "series_id": "les_vampires_1915",
+      "season": 1,
+      "episode": 8,
+      "title": "The Thunder Master",
+      "description": "Les Vampires • Bölüm 8",
+      "duration": "55 dk",
+      "original_url": "archive://lesVampires1915Episode8-theThunderMaster",
+      "enabled": true
+    },
+    {
+      "series_id": "les_vampires_1915",
+      "season": 1,
+      "episode": 9,
+      "title": "The Poisoner",
+      "description": "Les Vampires • Bölüm 9",
+      "duration": "48 dk",
+      "original_url": "archive://lesVampires1915Episode9-thePoisoner",
+      "enabled": true
+    },
+    {
+      "series_id": "les_vampires_1915",
+      "season": 1,
+      "episode": 10,
+      "title": "The Terrible Wedding",
+      "description": "Les Vampires • Bölüm 10",
+      "duration": "50 dk",
+      "original_url": "archive://lesVampires1915Episode10-theTerribleWedding",
+      "enabled": true
+    },
+    {
+      "series_id": "perils_of_pauline_1914",
+      "season": 1,
+      "episode": 1,
+      "title": "Chapter 1",
+      "description": "The Perils of Pauline • Bölüm 1",
+      "duration": "",
+      "original_url": "archive://THEPERILSOFPAULINE1914Ch.1PearlWhite",
+      "enabled": true
+    },
+    {
+      "series_id": "perils_of_pauline_1914",
+      "season": 1,
+      "episode": 2,
+      "title": "Chapter 2",
+      "description": "The Perils of Pauline • Bölüm 2",
+      "duration": "",
+      "original_url": "archive://THEPERILSOFPAULINE1914Ch.2PearlWhite",
+      "enabled": true
+    },
+    {
+      "series_id": "perils_of_pauline_1914",
+      "season": 1,
+      "episode": 3,
+      "title": "Chapter 3",
+      "description": "The Perils of Pauline • Bölüm 3",
+      "duration": "",
+      "original_url": "archive://THEPERILSOFPAULINE1914Ch.3PearlWhite",
+      "enabled": true
+    },
+    {
+      "series_id": "perils_of_pauline_1914",
+      "season": 1,
+      "episode": 4,
+      "title": "Chapter 4",
+      "description": "The Perils of Pauline • Bölüm 4",
+      "duration": "",
+      "original_url": "archive://THEPERILSOFPAULINE1914Ch.4PearlWhite",
+      "enabled": true
+    },
+    {
+      "series_id": "perils_of_pauline_1914",
+      "season": 1,
+      "episode": 5,
+      "title": "Chapter 5",
+      "description": "The Perils of Pauline • Bölüm 5",
+      "duration": "",
+      "original_url": "archive://THEPERILSOFPAULINE1914Ch.5PearlWhite",
+      "enabled": true
+    },
+    {
+      "series_id": "perils_of_pauline_1914",
+      "season": 1,
+      "episode": 6,
+      "title": "Chapter 6",
+      "description": "The Perils of Pauline • Bölüm 6",
+      "duration": "",
+      "original_url": "archive://THEPERILSOFPAULINE1914Ch.6PearlWhite",
+      "enabled": true
+    },
+    {
+      "series_id": "perils_of_pauline_1914",
+      "season": 1,
+      "episode": 7,
+      "title": "Chapter 7",
+      "description": "The Perils of Pauline • Bölüm 7",
+      "duration": "",
+      "original_url": "archive://THEPERILSOFPAULINE1914Ch.7PearlWhite",
+      "enabled": true
+    },
+    {
+      "series_id": "perils_of_pauline_1914",
+      "season": 1,
+      "episode": 8,
+      "title": "Chapter 8",
+      "description": "The Perils of Pauline • Bölüm 8",
+      "duration": "",
+      "original_url": "archive://THEPERILSOFPAULINE1914Ch.8PearlWhite",
+      "enabled": true
+    },
+    {
+      "series_id": "perils_of_pauline_1914",
+      "season": 1,
+      "episode": 9,
+      "title": "Chapter 9",
+      "description": "The Perils of Pauline • Bölüm 9",
+      "duration": "",
+      "original_url": "archive://THEPERILSOFPAULINE1914Ch.9PearlWhite",
+      "enabled": true
+    }
+  ]
+}
