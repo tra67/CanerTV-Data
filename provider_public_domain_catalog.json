@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-18",
+  "name": "Açık Alan Klasikleri",
+  "items": [
+    {
+      "id": "pd_his_girl_friday",
+      "title": "His Girl Friday",
+      "type": "Film",
+      "info": "Komedi • 1940",
+      "category": "Komedi",
+      "description": "Cary Grant ve Rosalind Russell'ın başrollerinde olduğu klasik hızlı tempolu komedi. Internet Archive açık arşiv kaynağı.",
+      "url": "archive://HisGirlFriday",
+      "server2": "archive://HisGirlFriday",
+      "server3": "archive://HisGirlFriday",
+      "poster": "https://archive.org/services/img/HisGirlFriday",
+      "enabled": true,
+      "featured": true,
+      "foreign": true,
+      "order": 1
+    },
+    {
+      "id": "pd_house_on_haunted_hill",
+      "title": "House on Haunted Hill",
+      "type": "Film",
+      "info": "Korku • 1959",
+      "category": "Korku",
+      "description": "Vincent Price'lı klasik korku filmi. Internet Archive açık arşiv kaynağı.",
+      "url": "archive://house_on_haunted_hill_ipod",
+      "server2": "archive://house_on_haunted_hill_ipod",
+      "server3": "archive://house_on_haunted_hill_ipod",
+      "poster": "https://archive.org/services/img/house_on_haunted_hill_ipod",
+      "enabled": true,
+      "featured": true,
+      "foreign": true,
+      "order": 2
+    },
+    {
+      "id": "pd_the_stranger",
+      "title": "The Stranger",
+      "type": "Film",
+      "info": "Gerilim • 1946",
+      "category": "Gerilim",
+      "description": "Orson Welles'in yönettiği klasik gerilim filmi. Internet Archive açık arşiv kaynağı.",
+      "url": "archive://TheStranger_0",
+      "server2": "archive://TheStranger_0",
+      "server3": "archive://TheStranger_0",
+      "poster": "https://archive.org/services/img/TheStranger_0",
+      "enabled": true,
+      "featured": false,
+      "foreign": true,
+      "order": 3
+    }
+  ]
+}
