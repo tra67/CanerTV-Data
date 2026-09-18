@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "updated": "2026-09-18",
   "providers": [
     {
@@ -10,6 +10,15 @@
       "episodes_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_open_episodes.json",
       "enabled_by_default": true,
       "order": 10
+    },
+    {
+      "id": "blender_open",
+      "name": "Blender Open Movies",
+      "description": "Big Buck Bunny, Sintel ve Tears of Steel açık film seçkisi.",
+      "catalog_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_blender_catalog.json",
+      "episodes_url": "",
+      "enabled_by_default": true,
+      "order": 20
     }
   ]
 }
