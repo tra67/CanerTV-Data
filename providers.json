@@ -1,7 +1,16 @@
 {
-  "version": 6,
+  "version": 7,
   "updated": "2026-09-18",
   "providers": [
+    {
+      "id": "open_features",
+      "name": "Açık Uzun Filmler",
+      "description": "Creative Commons / CC0 lisanslı uzun metraj filmler; Türkçe altyazı bulunan içerikler ayrıca işaretlidir.",
+      "catalog_url": "https://raw.githubusercontent.com/tra67/CanerTV-Data/main/provider_open_features_catalog.json",
+      "episodes_url": "",
+      "enabled_by_default": true,
+      "order": 5
+    },
     {
       "id": "blender_open",
       "name": "Blender Open Movies",
