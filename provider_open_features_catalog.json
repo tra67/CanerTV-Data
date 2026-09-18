@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-18",
+  "name": "Açık Uzun Filmler",
+  "items": [
+    {
+      "id": "sita_sings_the_blues",
+      "title": "Sita Sings the Blues",
+      "type": "Film",
+      "info": "Animasyon • 2008 • 81 dk • CC0",
+      "category": "Animasyon",
+      "description": "Nina Paley'in Ramayana ile modern bir ayrılık hikâyesini birleştiren uzun animasyon filmi. Türkçe altyazı dahildir.",
+      "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sita_Sings_the_Blues.webm",
+      "server2": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sita_Sings_the_Blues.webm",
+      "server3": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sita_Sings_the_Blues.webm",
+      "poster": "",
+      "subtitle_track_url": "https://commons.wikimedia.org/w/index.php?title=TimedText:Sita_Sings_the_Blues.webm.tr.srt&action=raw",
+      "subtitle_language": "tr",
+      "enabled": true,
+      "featured": true,
+      "foreign": true,
+      "order": 10
+    },
+    {
+      "id": "valkaama_2010",
+      "title": "Valkaama",
+      "type": "Film",
+      "info": "Dram • 2010 • 93 dk • CC BY-SA",
+      "category": "Dram",
+      "description": "Tim Baumann'ın açık kaynak yaklaşımıyla hazırlanan uzun metraj dram filmi.",
+      "url": "https://www.valkaama.com/download.php?target=media%2Fmovie%2FValkaama_720p.mkv",
+      "server2": "https://www.valkaama.com/download.php?target=media%2Fmovie%2FValkaama_720p.mkv",
+      "server3": "https://www.valkaama.com/download.php?target=media%2Fmovie%2FValkaama_720p.mkv",
+      "poster": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Valkaama_poster.png",
+      "enabled": true,
+      "featured": true,
+      "foreign": true,
+      "order": 20
+    }
+  ]
+}
